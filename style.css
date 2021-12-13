@@ -1,0 +1,14 @@
+body
+{
+    background-color: aqua;
+    text-align: center;
+}
+.container {
+    margin-top: 3px;
+    background-color: gray;
+    font-size: 50px;
+}
+.copy_right_footer {
+    background-color: azure;
+    font-size: 30px;
+}
